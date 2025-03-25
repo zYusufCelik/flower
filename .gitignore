@@ -1,0 +1,11 @@
+# Build klasörleri
+bin/
+obj/
+
+
+# dotnet dosyaları
+*.dll
+*.exe
+*.app
+*.pdb
+*.cache
