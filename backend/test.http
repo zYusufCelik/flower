@@ -1,0 +1,12 @@
+### POST Request to Create New Chart
+
+POST  http://localhost:5088/newChart
+Content-Type: application/json
+
+{
+    "Name": "Deneme3"
+}
+
+### GET request to list charts
+
+GET http://localhost:5088/charts
